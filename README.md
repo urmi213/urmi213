@@ -1,22 +1,31 @@
-<!-- ====== BANNER ====== -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=330&color=0:1e3c72,50:2a5298,100:6dd5fa&section=header&text=Urmi%20Chakraborty&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%E2%9C%A8&descSize=22&descAlignY=65)
+<!-- Urmi Chakraborty - Profile Banner Section -->
+<div align="center">
 
-<!-- ====== TYPING EFFECT ====== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&lines=Frontend+Developer;UI+Focused+Web+Designer;HTML+CSS+JavaScript;React+Learner;Love+Clean+%26+Modern+UI" />
-</p>
+<!-- SVG Banner Image - No external file needed -->
+<svg width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4F46E5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="100%" height="300" fill="url(#gradient)" rx="20"/>
+  
+  <text x="50%" y="45%" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="48" font-weight="bold">
+    Urmi Chakraborty
+  </text>
+  
+  <text x="50%" y="60%" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="32">
+    Frontend Developer
+  </text>
+  
+  <circle cx="85%" cy="50%" r="60" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="15%" cy="70%" r="40" fill="rgba(255,255,255,0.1)"/>
+</svg>
 
-<!-- ====== DEV ILLUSTRATION ====== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/dev-working.gif" width="320" />
-</p>
+<!-- Profile Header with Name and Title -->
+<h1 align="center">✨ Urmi Chakraborty</h1>
+<h3 align="center">🚀 Frontend Developer | React Specialist | UI/UX Enthusiast</h3>
 
-<!-- ====== SKILL ICONS ====== -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
-</p>
-
-<!-- ====== SHORT TAGLINE ====== -->
-<p align="center">
-  🌸 Passionate about building responsive, clean & user-friendly web interfaces
-</p>
+</div>
