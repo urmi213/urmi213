@@ -150,31 +150,26 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <h4>🛒 E-commerce Dashboard</h4>
+        <h4>Pet-Care</h4>
         <p>Modern admin dashboard with analytics</p>
-        <p><strong>Tech:</strong> React, TypeScript, Tailwind</p>
-        <a href="https://github.com/UrmiChakraborty/ecommerce-dashboard">View Project →</a>
+        <p><strong>Tech:</strong> React, MongoDB, Node.js, Tailwind</p>
+        <a href="https://github.com/urmi213/pet-care">View Project →</a>
       </td>
       <td width="50%" align="center">
-        <h4>🌦️ Weather App</h4>
-        <p>Real-time weather forecasting</p>
-        <p><strong>Tech:</strong> Next.js, OpenWeather API</p>
-        <a href="https://github.com/UrmiChakraborty/weather-app">View Project →</a>
+        <h4>Productive App</h4>
+        <p>Product related app</p>
+        <p><strong>Tech:</strong> Html, Css, JavaScript, React </p>
+        <a href="https://github.com/urmi213/Productive-app">View Project →</a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <h4>📝 Task Manager</h4>
+        <h4>GameHub</h4>
         <p>Full-featured task management</p>
-        <p><strong>Tech:</strong> React, Redux, Firebase</p>
-        <a href="https://github.com/UrmiChakraborty/task-manager">View Project →</a>
+        <p><strong>Tech:</strong> React, Tailwind Css, Firebase</p>
+        <a href="https://github.com/urmi213/Assignment-9">View Project →</a>
       </td>
-      <td width="50%" align="center">
-        <h4>🎨 Portfolio Website</h4>
-        <p>Personal portfolio with animations</p>
-        <p><strong>Tech:</strong> Next.js, Framer Motion</p>
-        <a href="https://github.com/UrmiChakraborty/portfolio">View Project →</a>
-      </td>
+     
     </tr>
   </table>
 </div>
