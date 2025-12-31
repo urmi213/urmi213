@@ -98,7 +98,7 @@
 <div align="center">
   <!-- GitHub -->
  <a href="https://github.com/urmi213" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub" title="GitHub Profile" />
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="52" height="40" alt="GitHub" title="GitHub Profile" />
   
   </a>
   <!-- LinkedIn -->
