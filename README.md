@@ -97,21 +97,17 @@
 
 <div align="center">
   <!-- GitHub -->
-  <a href="https://github.com/UrmiChakraborty" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub" />
+ <a href="https://github.com/urmi213" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub" title="GitHub Profile" />
+  
   </a>
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/urmichakraborty" target="_blank">
-    <img src="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2B2RN4CG%2BR8ipZfS7APKKog%3D%3D" width="52" height="40" alt="LinkedIn" />
+ <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2B2RN4CG%2BR8ipZfS7APKKog%3D%3D" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" title="LinkedIn Profile" />
   </a>
   <!-- Twitter -->
-  <a href="https://twitter.com/UrmiCodes" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
-  </a>
-  <!-- Portfolio -->
-  <a href="https://urmichakraborty.vercel.app" target="_blank">
-    <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-portfolio-ux-and-ui-justicon-lineal-color-justicon.png" width="40" height="40" alt="Portfolio" />
-  </a>
+ 
+ 
 </div>
 
 ###
@@ -121,9 +117,9 @@
 ###
 
 <p align="left">
-  🏠 Kolkata, India<br>
-  📧 urmi.chakraborty@example.com<br>
-  📱 +91-9876543210<br>
+  🏠 Sylhet, Bangladesh<br>
+  📧 urmichakravorty02@gmail.com<br>
+  📱 01791399042<br>
   💼 Open to Frontend Developer opportunities
 </p>
 
