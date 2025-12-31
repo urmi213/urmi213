@@ -1,106 +1,195 @@
 <div align="center">
+  <!-- Banner Image -->
+  <img style="width: 100%; height: auto;" src="https://via.placeholder.com/1200x300/0f172a/ffffff?text=Urmi+Chakraborty%0AFrontend+Developer%0A%0AReact+•+JavaScript+•+TypeScript" alt="Profile Banner" />
+</div>
 
-<!-- Profile Header with Badges -->
-<h1>Urmi Chakraborty</h1>
-<h3>Frontend Developer</h3>
+###
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+<h1 align="left">👋 Hey, I'm Urmi Chakraborty</h1>
+
+###
+
+<h2 align="left">🚀 I'm a Frontend Developer specializing in React & Modern Web Technologies</h2>
+
+###
+
+<h3 align="left">📖 About Me</h3>
+
+###
+
+<p align="left">
+  ✨ Creating beautiful and functional web applications since 2023<br>
+  📚 I'm currently learning Next.js and Advanced TypeScript<br>
+  🎯 Goal: Become a Senior Frontend Developer by 2025<br>
+  💡 Passion: Building responsive, accessible, and performant user interfaces<br>
+  🎲 Fun fact: I can debug CSS issues with my eyes closed!
 </p>
 
-<p>📍 Kolkata, India • 📧 urmi.chakraborty@example.com • 💼 Open to Opportunities</p>
+###
 
-</div>
+<h3 align="left">🔧 Current Activities</h3>
 
----
+###
 
-## 📖 About Me
+<p align="left">
+  • 🔭 I am exploring Next.js 14 features<br>
+  • 🌱 I'm working on an E-commerce Dashboard project<br>
+  • 👨‍💻 Building a Tourism Website with interactive maps<br>
+  • 📚 Learning Web Performance Optimization techniques<br>
+  • 🤝 Contributing to open-source React projects
+</p>
 
-Hello! I'm Urmi, a passionate Frontend Developer specializing in building modern, responsive web applications. I love creating intuitive user interfaces and solving complex problems with clean, efficient code.
+###
 
-## 🚀 Currently Working On
+<h2 align="left">🛠️ Tech Stack</h2>
 
-- 🔭 Building an E-commerce Dashboard with React & TypeScript
-- 🌱 Learning Advanced React Patterns
-- 👨‍💻 Exploring Next.js 14 features
-- 🎯 Improving performance optimization skills
+###
 
-## 🛠️ Tech Stack
-
-### **Frontend**
-- **React** - Building interactive UIs
-- **TypeScript** - Type-safe JavaScript
-- **Next.js** - React framework for production
-- **JavaScript (ES6+)** - Core programming language
-- **Tailwind CSS** - Utility-first CSS framework
-- **Redux/Context API** - State management
-
-### **Tools & Others**
-- **Git & GitHub** - Version control
-- **VS Code** - Primary code editor
-- **Figma** - UI/UX design
-- **Webpack/Vite** - Build tools
-- **Jest/React Testing Library** - Testing
-
-## 📊 GitHub Stats
+<h3 align="left">Frontend Technologies</h3>
 
 <div align="center">
-
-![Urmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UrmiChakraborty&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=UrmiChakraborty&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UrmiChakraborty&layout=compact&theme=radical)
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" title="Redux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
 </div>
 
-## 🚀 Featured Projects
+###
 
-### **🎯 E-commerce Dashboard**
-A modern admin dashboard for e-commerce analytics and management.
+<h3 align="left">Backend & Tools</h3>
 
-**Technologies:** React, TypeScript, Tailwind CSS, Recharts  
-**Live Demo:** [ecommerce-demo.netlify.app](https://ecommerce-demo.netlify.app)  
-**Features:** Real-time analytics, Product management, Order tracking
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" title="Express.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" title="npm" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="Webpack" title="Webpack" />
+</div>
 
-### **🌦️ Weather Forecast App**
-Real-time weather application with 7-day forecast.
+###
 
-**Technologies:** Next.js, OpenWeather API, Chart.js  
-**Live Demo:** [weather-urmi.vercel.app](https://weather-urmi.vercel.app)  
-**Features:** Location-based, Multiple themes, Interactive charts
+<h3 align="left">📫 Connect With Me</h3>
 
-### **📝 Task Manager**
-Full-featured task management application.
+###
 
-**Technologies:** React, Redux, Firebase, React DnD  
-**Live Demo:** [taskmanager-urmi.netlify.app](https://taskmanager-urmi.netlify.app)  
-**Features:** Drag & drop, Team collaboration, Notifications
-
-## 📫 Connect With Me
-
-<p align="center">
+<div align="center">
+  <!-- GitHub -->
   <a href="https://github.com/UrmiChakraborty" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub" />
   </a>
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/urmichakraborty" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
+  <!-- Twitter -->
   <a href="https://twitter.com/UrmiCodes" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
   </a>
-  <a href="mailto:urmichakraborty@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <!-- Portfolio -->
+  <a href="https://urmichakraborty.vercel.app" target="_blank">
+    <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-portfolio-ux-and-ui-justicon-lineal-color-justicon.png" width="40" height="40" alt="Portfolio" />
   </a>
+</div>
+
+###
+
+<h3 align="left">📍 Location & Contact</h3>
+
+###
+
+<p align="left">
+  🏠 Kolkata, India<br>
+  📧 urmi.chakraborty@example.com<br>
+  📱 +91-9876543210<br>
+  💼 Open to Frontend Developer opportunities
 </p>
 
----
+###
+
+<h3 align="left">📊 GitHub Statistics</h3>
+
+###
 
 <div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=UrmiChakraborty&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UrmiChakraborty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=UrmiChakraborty&theme=radical&hide_border=false" height="150" alt="streak graph" />
+</div>
 
-⭐ **Thanks for visiting my profile!** ⭐
+###
 
+<h3 align="left">📌 Pinned Repositories</h3>
+
+###
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h4>🛒 E-commerce Dashboard</h4>
+        <p>Modern admin dashboard with analytics</p>
+        <p><strong>Tech:</strong> React, TypeScript, Tailwind</p>
+        <a href="https://github.com/UrmiChakraborty/ecommerce-dashboard">View Project →</a>
+      </td>
+      <td width="50%" align="center">
+        <h4>🌦️ Weather App</h4>
+        <p>Real-time weather forecasting</p>
+        <p><strong>Tech:</strong> Next.js, OpenWeather API</p>
+        <a href="https://github.com/UrmiChakraborty/weather-app">View Project →</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h4>📝 Task Manager</h4>
+        <p>Full-featured task management</p>
+        <p><strong>Tech:</strong> React, Redux, Firebase</p>
+        <a href="https://github.com/UrmiChakraborty/task-manager">View Project →</a>
+      </td>
+      <td width="50%" align="center">
+        <h4>🎨 Portfolio Website</h4>
+        <p>Personal portfolio with animations</p>
+        <p><strong>Tech:</strong> Next.js, Framer Motion</p>
+        <a href="https://github.com/UrmiChakraborty/portfolio">View Project →</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+###
+
+<div align="center">
+  <p>⭐ <strong>Thanks for visiting my profile!</strong> ⭐</p>
+  <p>Feel free to explore my repositories and connect with me!</p>
 </div>
