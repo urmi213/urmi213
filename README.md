@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner Image -->
-  <img style="width: 100%; height: auto;" src="https://github.com/urmi213/urmi213/blob/main/Urmi_dark_banner.png" alt="Profile Banner" />
+  <img style="width: 600; height: auto;" src="https://github.com/urmi213/urmi213/blob/main/bannerImg.png" alt="Profile Banner" />
 </div>
 
 ###
